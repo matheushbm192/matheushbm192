@@ -7,7 +7,7 @@
   <img align="right"   width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <img align="right"  width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheus192&show_icons=true&theme=chartreuse-dark"></div>
+<img src="https://github-readme-stats.vercel.app/api?username=matheushbm192&show_icons=true&theme=chartreuse-dark"></div>
 
  ## -texto apresentaçao 
  <img width="490" height="330" src="https://user-images.githubusercontent.com/95291756/145240637-977d5de0-02d3-491b-a3d4-b3ec46bdd3aa.gif" align=right valign=top></br>
