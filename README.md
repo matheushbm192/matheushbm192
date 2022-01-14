@@ -22,7 +22,7 @@
  <pre> 1- Matheus Henrique Baptista Miranda, tenho 
  18 anos e moro na cidade de Conselheiro 
  Lafaiete, Minas Gerais.</pre>
- <pre> 110- Sou um cinefalo apaixonado em ficção
+ <pre> 110- Sou um cinéfalo apaixonado em ficção
  cientifica e nas horas vagas eu costumo jogar
  basquete.</pre>
  <pre> 11011- Comecei a codar por hobbie e espero 
