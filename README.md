@@ -20,7 +20,7 @@
 </div>
 
  <pre> 1- Matheus Henrique Baptista Miranda, tenho
- 18 anos e resido na cidade de Conselheiro Lafaiete,
+ 18 anos e moro na cidade de Conselheiro Lafaiete,
  Minas Gerais.</pre>
  <pre> 110- Sou um cinefalo apaixonado em ficção
  cientifica e nas horas vagas eu costumo jogar
@@ -35,7 +35,7 @@
   <img width="25" height="25" src="https://media1.tenor.com/images/319cc8e671cff9d2897d200f8bcd70d7/tenor.gif?itemid=10391952"> </h2>
 </div>
  
- <pre> 100- Atualmente estou cursando Eletrotácnica no IFMG-Conselheiro Lafaiete </pre>
+ <pre> 100- Atualmente estou cursando Eletrotécnica no IFMG-Conselheiro Lafaiete </pre>
  <pre> 110- Curso Inglês e no momento estou em nível Intermediário</pre>
  <pre> 11011-Possuo conhecimento em IOT-Internet das coisas</pre>
   <pre> 11011-ESTAGIO-</pre><br>
