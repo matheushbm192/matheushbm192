@@ -19,12 +19,9 @@
   <img width="25" height="25" src="https://thumbs.gfycat.com/TalkativeScrawnyKinkajou-max-1mb.gif"> </h2>
 </div>
 
- <pre> 1-nome/idade/cidadekkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre>
- <pre> 110-hobbies/gostoskkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre>
- <pre> 11011-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre>
+ <pre> 1- Matheus Henrique Baptista Miranda, tenho 18 anos e resido na cidade de Conselheiro Lafaiete / Minas Gerais.</pre>
+ <pre> 110- Sou um cinefalo apaixonado em ficção cientifica e nas horas vagas eu costumo jogar basquete.</pre>
+ <pre> 11011- Comecei a codar por hobbie e espero em breve ter a oportunidade de construir uma carreira na área. </pre>
   <img width="300" height="400" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" align=left valign=top></br>
  <div align="center">
   <h2><img width="25" height="25" src="https://media1.tenor.com/images/319cc8e671cff9d2897d200f8bcd70d7/tenor.gif?itemid=10391952"> 
@@ -32,14 +29,10 @@
   <img width="25" height="25" src="https://media1.tenor.com/images/319cc8e671cff9d2897d200f8bcd70d7/tenor.gif?itemid=10391952"> </h2>
 </div>
  
- <pre> 100- curso atualkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre>
- <pre> 110-iNGLESkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre>
- <pre> 11011-iOTkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre>
-  <pre> 11011-ESTAGIOkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre><br>
+ <pre> 100- Atualmente estou cursando Eletrotácnica no IFMG-Conselheiro Lafaiete </pre>
+ <pre> 110- Curso Inglês e no momento estou em nível Intermediário</pre>
+ <pre> 11011-Possuo conhecimento em IOT-Internet das coisas</pre>
+  <pre> 11011-ESTAGIO-</pre><br>
  ![Snake animation](https://github.com/matheushbm192/Matheus-Baptista/blob/output/github-contribution-grid-snake.svg)
  
   
@@ -48,5 +41,3 @@
 <a href="https://www.instagram.com/theus__baptista/" target="_blank" alt="@theus__baptista" title="@theus__baptista"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-henrique-051169227/" target="_blank" alt="https://www.linkedin.com/in/matheus-henrique-051169227/" title="https://www.linkedin.com/in/matheus-henrique-051169227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
-
-
