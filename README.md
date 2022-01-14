@@ -19,12 +19,15 @@
   <img width="25" height="25" src="https://thumbs.gfycat.com/TalkativeScrawnyKinkajou-max-1mb.gif"> </h2>
 </div>
 
- <pre> 1- Matheus Henrique Baptista Miranda, tenho 18 anos
- e resido na cidade de Conselheiro Lafaiete / Minas Gerais.</pre>
- <pre> 110- Sou um cinefalo apaixonado em ficção cientifica
- e nas horas vagas eu costumo jogar basquete.</pre>
- <pre> 11011- Comecei a codar por hobbie e espero em breve
- ter a oportunidade de construir uma carreira na área. </pre>
+ <pre> 1- Matheus Henrique Baptista Miranda, tenho 18
+ anos e resido na cidade de Conselheiro Lafaiete, 
+ Minas Gerais.</pre>
+ <pre> 110- Sou um cinefalo apaixonado em ficção
+ cientifica e nas horas vagas eu costumo jogar
+ basquete.</pre>
+ <pre> 11011- Comecei a codar por hobbie e espero 
+ em breve ter a oportunidade de construir uma 
+ carreira na área. </pre>
   <img width="300" height="400" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" align=left valign=top></br>
  <div align="center">
   <h2><img width="25" height="25" src="https://media1.tenor.com/images/319cc8e671cff9d2897d200f8bcd70d7/tenor.gif?itemid=10391952"> 
