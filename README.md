@@ -31,7 +31,7 @@
   <img width="300" height="400" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" align=left valign=top></br>
  <div align="center">
   <h2><img width="25" height="25" src="https://media1.tenor.com/images/319cc8e671cff9d2897d200f8bcd70d7/tenor.gif?itemid=10391952"> 
-  &nbsp; <strong> Journey </strong>  &nbsp; 
+  &nbsp; <strong> Jornada </strong>  &nbsp; 
   <img width="25" height="25" src="https://media1.tenor.com/images/319cc8e671cff9d2897d200f8bcd70d7/tenor.gif?itemid=10391952"> </h2>
 </div>
  
