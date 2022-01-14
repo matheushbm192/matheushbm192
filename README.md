@@ -19,9 +19,9 @@
   <img width="25" height="25" src="https://thumbs.gfycat.com/TalkativeScrawnyKinkajou-max-1mb.gif"> </h2>
 </div>
 
- <pre> 1- Matheus Henrique Baptista Miranda, tenho
- 18 anos e moro na cidade de Conselheiro Lafaiete,
- Minas Gerais.</pre>
+ <pre> 1- Matheus Henrique Baptista Miranda, tenho 
+ 18 anos e moro na cidade de Conselheiro 
+ Lafaiete, Minas Gerais.</pre>
  <pre> 110- Sou um cinefalo apaixonado em ficção
  cientifica e nas horas vagas eu costumo jogar
  basquete.</pre>
