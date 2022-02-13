@@ -38,7 +38,7 @@
  <pre> 100- Atualmente estou cursando Eletrotécnica no IFMG-Conselheiro Lafaiete </pre>
  <pre> 110- Curso Inglês e no momento estou em nível Intermediário</pre>
  <pre> 11011-Possuo conhecimento em IOT-Internet das coisas</pre>
-  <pre> 11011-ESTAGIO-</pre><br>
+  <pre> 11011-Estagiando na Companhia Siderúrgica Nacional-CSN</pre><br>
  ![Snake animation](https://github.com/matheushbm192/Matheus-Baptista/blob/output/github-contribution-grid-snake.svg)
  
   
